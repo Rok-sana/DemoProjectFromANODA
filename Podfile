@@ -13,11 +13,6 @@ target 'DemoProjectFromANODA' do
     # Pods for testing
   end
 
-  target 'DemoProjectFromANODAUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
 end
 
 post_install do |installer|
