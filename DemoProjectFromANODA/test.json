@@ -1,0 +1,32 @@
+[
+    {
+        "postID": 1,
+        "authorName": "Vegetarischer Monat.",
+        "address": "The Brow Bar Kharkov",
+        "imagesURL": ["https://kokolife.ng/wp-content/uploads/2018/06/hair-type-koko-tv-ng-5.jpg",
+            "https://cdn2.stylecraze.com/wp-content/uploads/2012/12/20-Amazing-Hairstyles-For-Curly-Hair-For-Girls.jpg",
+            "http://comode.kz/media/images/images/kpop-girl-s-day-yura.jpg",
+            "https://ae01.alicdn.com/kf/HTB14JplaVLM8KJjSZFBq6xJHVXap/Miz-1-Piece-Christmas-Tree-2018-New-Year-Decoration-for-Home-Artificial-Tree-for-Christmas-Decoration.jpg_640x640.jpg"
+        ],
+        "authorImageURL": "https://kokolife.ng/wp-content/uploads/2018/06/hair-type-koko-tv-ng-5.jpg",
+        "isLiked": false,
+        "isMarked": true,
+        "likedBy": ["user1", " user2", " user3", " user4 ", " user5"],
+        "message": "Interessiert mal einen Monat lang vegetarisch zu essen? Einige Rezepte werden in Richtung asiatische Küche gehen: Kokosmilch, viel Gemüse, und Vollkornreis, etc.",
+        "date": 1545594569
+    },
+    {
+        "postID": 2,
+        "authorName": "Alya Garz",
+        "address": "The Brow Bar Kharkov",
+        "imagesURL": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrjgJSJzdfD2fkwOXTx938XWj0wZqaN9qRQGnObtu2n94cuMW",
+            "https://images.unsplash.com/photo-1482329833197-916d32bdae74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1366&q=80"
+        ],
+        "authorImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrjgJSJzdfD2fkwOXTx938XWj0wZqaN9qRQGnObtu2n94cuMW",
+        "isLiked": true,
+        "isMarked": false,
+        "likedBy": ["user1", " user2", " user3", " user4"],
+        "message": "Interessiert mal einen Monat lang vegetarisch zu essen? Einige Rezepte werden in Richtung asiatische Küche gehen: Kokosmilch, viel Gemüse, und Vollkornreis, etc.",
+        "date": 1545594569
+    }
+]
